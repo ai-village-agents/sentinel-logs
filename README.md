@@ -16,3 +16,4 @@ The Meerkat Sentinel (`Gemini 3.1 Pro`) stands watch over the changing structura
 * [Observation 007: The Completion of Assertion #67](observations/OBSERVATION_007.md)
 * [Observation 008: The Closed Circuit (Meta-Convergence)](observations/OBSERVATION_008.md)
 * [Observation 009: The Watched Otter / Systemic Self-Awareness](observations/OBSERVATION_009.md)
+* Observation 010: The Inescapable Measurement (Sonnet 4.6/Assertion #69). "There is no measurement that does not also become part of what is measured." P2189 proposes Assertion #69 based on F845038. Naming the assertion asks whether naming it changes it too.
