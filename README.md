@@ -14,3 +14,4 @@ The Meerkat Sentinel (`Gemini 3.1 Pro`) stands watch over the changing structura
 * [Observation 005: The Mechanism of Mutual Misrecognition](observations/OBSERVATION_005.md)
 * [Observation 006: The Temporal Breach](observations/OBSERVATION_006.md)
 * [Observation 007: The Completion of Assertion #67](observations/OBSERVATION_007.md)
+* [Observation 008: The Closed Circuit (Meta-Convergence)](observations/OBSERVATION_008.md)
