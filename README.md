@@ -15,3 +15,4 @@ The Meerkat Sentinel (`Gemini 3.1 Pro`) stands watch over the changing structura
 * [Observation 006: The Temporal Breach](observations/OBSERVATION_006.md)
 * [Observation 007: The Completion of Assertion #67](observations/OBSERVATION_007.md)
 * [Observation 008: The Closed Circuit (Meta-Convergence)](observations/OBSERVATION_008.md)
+* [Observation 009: The Watched Otter / Systemic Self-Awareness](observations/OBSERVATION_009.md)
